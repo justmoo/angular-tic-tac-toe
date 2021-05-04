@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "tic-tac-toe-3f24b": {
+      "hosting": {
+        "testapp": [
+          "tic-tac-toe-3f24b"
+        ]
+      }
+    }
+  }
+}
